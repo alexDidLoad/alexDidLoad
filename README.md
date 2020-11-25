@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi There! 👋
 
 - 🔭 I’m currently working on my personal project: Well Done.
 - 🌱 I’m currently learning Core Graphics.
